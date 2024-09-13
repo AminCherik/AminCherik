@@ -1,6 +1,6 @@
 ### Hi there , I am Amin Cherik .
 
-I'm a Python , PHP Developer and Graphic Designer .
+Im Going to be Full-Stack Developer <3 ...
 
 ![Header](./github-header-image.png)
 
