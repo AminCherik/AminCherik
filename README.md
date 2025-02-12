@@ -1,6 +1,5 @@
-### Hi there , I am Amin Cherik .
+### Hi there , I am Amin.
 
-Im going to be a Full-Stack Developer <3 ...
 
 ![Header](./github-header-image.png)
 
