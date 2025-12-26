@@ -24,7 +24,6 @@
 ---
 
 ## 📊 آمار گیت‌هاب من
-*(این بخش خودکار آپدیت میشه و پروفایلت رو حرفه‌ای نشون میده)*
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AminCherik&show_icons=true&theme=radical" alt="Amin's Github Stats" />
